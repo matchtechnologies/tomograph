@@ -1,5 +1,7 @@
 # Tomograph 
 
+Note: The project has been moved to https://github.com/tuwilof/tomograph
+
 Convert API Blueprint, Swagger and OpenAPI to minimal routes with JSON Schema. For ease of use and creation of new tools.
 
 Will look like
